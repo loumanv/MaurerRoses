@@ -1,0 +1,462 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MaurerRosesAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {939, 574}}";
+			sepNavSelRange = "{516, 0}";
+			sepNavVisRange = "{0, 518}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MaurerRosesAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {939, 806}}";
+			sepNavSelRange = "{0, 1194}";
+			sepNavVisRange = "{0, 967}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MaurerRoses */ = {
+		activeExec = 0;
+		executables = (
+			49ACC60E1465DCF80084B128 /* MaurerRoses */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MaurerRosesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {939, 574}}";
+			sepNavSelRange = "{409, 0}";
+			sepNavVisRange = "{0, 619}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MaurerRosesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {939, 962}}";
+			sepNavSelRange = "{1282, 0}";
+			sepNavVisRange = "{0, 1040}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 49ACC60E1465DCF80084B128 /* MaurerRoses */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MaurerRoses */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MaurerRoses */,
+		);
+		breakpoints = (
+			49E46818146C3DB0002FE497 /* MaurerRosesModel.m:16 */,
+			495EF4BB146F41B300C0DAE0 /* MaurerRosesModel.m:15 */,
+			495EF4BD146F41BD00C0DAE0 /* -[MaurerRosesModel subView] */,
+			495EF4BE146F41BD00C0DAE0 /* -[MaurerRosesModel setSubView:] */,
+			495EF4BF146F41BD00C0DAE0 /* -[MaurerRosesModel d] */,
+			495EF4C0146F41BD00C0DAE0 /* -[MaurerRosesModel setD:] */,
+			495EF4C1146F41BD00C0DAE0 /* -[MaurerRosesModel n] */,
+			495EF4C2146F41BD00C0DAE0 /* -[MaurerRosesModel setN:] */,
+		);
+		codeSenseManager = 49ACC6131465DD180084B128 /* Code sense */;
+		executables = (
+			49ACC60E1465DCF80084B128 /* MaurerRoses */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					776,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 347403828;
+			PBXWorkspaceStateSaveDate = 347403828;
+		};
+		perUserProjectItems = {
+			49306C72147159B4006D8E7B /* PBXTextBookmark */ = 49306C72147159B4006D8E7B /* PBXTextBookmark */;
+			495EF4A6146F417900C0DAE0 /* PlistBookmark */ = 495EF4A6146F417900C0DAE0 /* PlistBookmark */;
+			495EF4CD146F460800C0DAE0 /* PBXTextBookmark */ = 495EF4CD146F460800C0DAE0 /* PBXTextBookmark */;
+			495EF4CE146F460800C0DAE0 /* PBXTextBookmark */ = 495EF4CE146F460800C0DAE0 /* PBXTextBookmark */;
+			49631501148010F00097E2AA /* PBXTextBookmark */ = 49631501148010F00097E2AA /* PBXTextBookmark */;
+			49AFD0E814B4F6DB001B146B /* PBXTextBookmark */ = 49AFD0E814B4F6DB001B146B /* PBXTextBookmark */;
+			49AFD0E914B4F6DB001B146B /* PBXTextBookmark */ = 49AFD0E914B4F6DB001B146B /* PBXTextBookmark */;
+			49AFD0EA14B4F6DB001B146B /* PBXTextBookmark */ = 49AFD0EA14B4F6DB001B146B /* PBXTextBookmark */;
+			49AFD0EB14B4F6DB001B146B /* PBXTextBookmark */ = 49AFD0EB14B4F6DB001B146B /* PBXTextBookmark */;
+			49AFD0EC14B4F6DB001B146B /* PBXTextBookmark */ = 49AFD0EC14B4F6DB001B146B /* PBXTextBookmark */;
+			49E46810146C2F66002FE497 /* PBXTextBookmark */ = 49E46810146C2F66002FE497 /* PBXTextBookmark */;
+			49E73DF5146BCDE900BF0610 /* PBXTextBookmark */ = 49E73DF5146BCDE900BF0610 /* PBXTextBookmark */;
+			49E73DF8146BCDE900BF0610 /* PBXTextBookmark */ = 49E73DF8146BCDE900BF0610 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 49ACC6121465DD180084B128 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	49306C72147159B4006D8E7B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49ACC6151465DD8F0084B128 /* MaurerRosesModel.h */;
+		name = "MaurerRosesModel.h: 15";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 410;
+		vrLoc = 0;
+	};
+	495EF4A6146F417900C0DAE0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MaurerRoses-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIStatusBarStyle,
+		);
+		name = "/Users/bati/Documents/Random projects/MaurerRoses/MaurerRoses-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	495EF4BB146F41B300C0DAE0 /* MaurerRosesModel.m:15 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		currentMultipleMatches = (
+			495EF4BD146F41BD00C0DAE0 /* -[MaurerRosesModel subView] */,
+			495EF4BE146F41BD00C0DAE0 /* -[MaurerRosesModel setSubView:] */,
+			495EF4BF146F41BD00C0DAE0 /* -[MaurerRosesModel d] */,
+			495EF4C0146F41BD00C0DAE0 /* -[MaurerRosesModel setD:] */,
+			495EF4C1146F41BD00C0DAE0 /* -[MaurerRosesModel n] */,
+			495EF4C2146F41BD00C0DAE0 /* -[MaurerRosesModel setN:] */,
+		);
+		delayBeforeContinue = 0;
+		fileReference = 49ACC6161465DD8F0084B128 /* MaurerRosesModel.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 15;
+		modificationTime = 342835650.651609;
+		originalNumberOfMultipleMatches = 6;
+		state = 2;
+	};
+	495EF4BD146F41BD00C0DAE0 /* -[MaurerRosesModel subView] */ = {
+		isa = PBXSymbolicBreakpoint;
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		hitCount = 0;
+		ignoreCount = 0;
+		location = MaurerRoses;
+		modificationTime = 342835650.651746;
+		originalNumberOfMultipleMatches = 0;
+		parentBreakpoint = 495EF4BB146F41B300C0DAE0 /* MaurerRosesModel.m:15 */;
+		state = 2;
+		symbolName = "-[MaurerRosesModel subView]";
+	};
+	495EF4BE146F41BD00C0DAE0 /* -[MaurerRosesModel setSubView:] */ = {
+		isa = PBXSymbolicBreakpoint;
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		hitCount = 0;
+		ignoreCount = 0;
+		location = MaurerRoses;
+		modificationTime = 342835650.651797;
+		originalNumberOfMultipleMatches = 0;
+		parentBreakpoint = 495EF4BB146F41B300C0DAE0 /* MaurerRosesModel.m:15 */;
+		state = 2;
+		symbolName = "-[MaurerRosesModel setSubView:]";
+	};
+	495EF4BF146F41BD00C0DAE0 /* -[MaurerRosesModel d] */ = {
+		isa = PBXSymbolicBreakpoint;
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		hitCount = 0;
+		ignoreCount = 0;
+		location = MaurerRoses;
+		modificationTime = 342835650.651847;
+		originalNumberOfMultipleMatches = 0;
+		parentBreakpoint = 495EF4BB146F41B300C0DAE0 /* MaurerRosesModel.m:15 */;
+		state = 2;
+		symbolName = "-[MaurerRosesModel d]";
+	};
+	495EF4C0146F41BD00C0DAE0 /* -[MaurerRosesModel setD:] */ = {
+		isa = PBXSymbolicBreakpoint;
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		hitCount = 0;
+		ignoreCount = 0;
+		location = MaurerRoses;
+		modificationTime = 342835650.651893;
+		originalNumberOfMultipleMatches = 0;
+		parentBreakpoint = 495EF4BB146F41B300C0DAE0 /* MaurerRosesModel.m:15 */;
+		state = 2;
+		symbolName = "-[MaurerRosesModel setD:]";
+	};
+	495EF4C1146F41BD00C0DAE0 /* -[MaurerRosesModel n] */ = {
+		isa = PBXSymbolicBreakpoint;
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		hitCount = 0;
+		ignoreCount = 0;
+		location = MaurerRoses;
+		modificationTime = 342835650.651938;
+		originalNumberOfMultipleMatches = 0;
+		parentBreakpoint = 495EF4BB146F41B300C0DAE0 /* MaurerRosesModel.m:15 */;
+		state = 2;
+		symbolName = "-[MaurerRosesModel n]";
+	};
+	495EF4C2146F41BD00C0DAE0 /* -[MaurerRosesModel setN:] */ = {
+		isa = PBXSymbolicBreakpoint;
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		hitCount = 0;
+		ignoreCount = 0;
+		location = MaurerRoses;
+		modificationTime = 342835650.651986;
+		originalNumberOfMultipleMatches = 0;
+		parentBreakpoint = 495EF4BB146F41B300C0DAE0 /* MaurerRosesModel.m:15 */;
+		state = 2;
+		symbolName = "-[MaurerRosesModel setN:]";
+	};
+	495EF4CD146F460800C0DAE0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49ACC6181465DDF60084B128 /* MaurerRosesViewDraw.h */;
+		name = "MaurerRosesViewDraw.h: 21";
+		rLen = 0;
+		rLoc = 353;
+		rType = 0;
+		vrLen = 358;
+		vrLoc = 0;
+	};
+	495EF4CE146F460800C0DAE0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49ACC6191465DDF60084B128 /* MaurerRosesViewDraw.m */;
+		name = "MaurerRosesViewDraw.m: 64";
+		rLen = 0;
+		rLoc = 1572;
+		rType = 0;
+		vrLen = 1098;
+		vrLoc = 0;
+	};
+	49631501148010F00097E2AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49ACC6161465DD8F0084B128 /* MaurerRosesModel.m */;
+		name = "MaurerRosesModel.m: 22";
+		rLen = 0;
+		rLoc = 329;
+		rType = 0;
+		vrLen = 280;
+		vrLoc = 159;
+	};
+	49ACC60E1465DCF80084B128 /* MaurerRoses */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MaurerRoses;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	49ACC6121465DD180084B128 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	49ACC6131465DD180084B128 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	49ACC6151465DD8F0084B128 /* MaurerRosesModel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 551}}";
+			sepNavSelRange = "{241, 0}";
+			sepNavVisRange = "{0, 410}";
+		};
+	};
+	49ACC6161465DD8F0084B128 /* MaurerRosesModel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {741, 455}}";
+			sepNavSelRange = "{329, 0}";
+			sepNavVisRange = "{159, 280}";
+		};
+	};
+	49ACC6181465DDF60084B128 /* MaurerRosesViewDraw.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {942, 551}}";
+			sepNavSelRange = "{353, 0}";
+			sepNavVisRange = "{0, 358}";
+		};
+	};
+	49ACC6191465DDF60084B128 /* MaurerRosesViewDraw.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {939, 832}}";
+			sepNavSelRange = "{1572, 0}";
+			sepNavVisRange = "{0, 1220}";
+		};
+	};
+	49AFD0E814B4F6DB001B146B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MaurerRosesAppDelegate.h */;
+		name = "MaurerRosesAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 516;
+		rType = 0;
+		vrLen = 518;
+		vrLoc = 0;
+	};
+	49AFD0E914B4F6DB001B146B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MaurerRosesAppDelegate.m */;
+		name = "MaurerRosesAppDelegate.m: 1";
+		rLen = 1194;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 967;
+		vrLoc = 0;
+	};
+	49AFD0EA14B4F6DB001B146B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MaurerRosesViewController.h */;
+		name = "MaurerRosesViewController.h: 18";
+		rLen = 0;
+		rLoc = 409;
+		rType = 0;
+		vrLen = 619;
+		vrLoc = 0;
+	};
+	49AFD0EB14B4F6DB001B146B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MaurerRosesViewController.m */;
+		name = "MaurerRosesViewController.m: 52";
+		rLen = 0;
+		rLoc = 1282;
+		rType = 0;
+		vrLen = 1040;
+		vrLoc = 0;
+	};
+	49AFD0EC14B4F6DB001B146B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49ACC6191465DDF60084B128 /* MaurerRosesViewDraw.m */;
+		name = "MaurerRosesViewDraw.m: 64";
+		rLen = 0;
+		rLoc = 1572;
+		rType = 0;
+		vrLen = 1220;
+		vrLoc = 0;
+	};
+	49E46810146C2F66002FE497 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49E73DF4146BCDE900BF0610 /* CGGeometry.h */;
+		name = "CGGeometry.h: 22";
+		rLen = 17;
+		rLoc = 341;
+		rType = 0;
+		vrLen = 807;
+		vrLoc = 0;
+	};
+	49E46818146C3DB0002FE497 /* MaurerRosesModel.m:16 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 49ACC6161465DD8F0084B128 /* MaurerRosesModel.m */;
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 16;
+		location = MaurerRoses;
+		modificationTime = 342835652.053701;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	49E73DF4146BCDE900BF0610 /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGeometry.h;
+		path = /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	49E73DF5146BCDE900BF0610 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49E73DF6146BCDE900BF0610 /* CGBase.h */;
+		name = "CGBase.h: 89";
+		rLen = 30;
+		rLoc = 2449;
+		rType = 0;
+		vrLen = 1245;
+		vrLoc = 1284;
+	};
+	49E73DF6146BCDE900BF0610 /* CGBase.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGBase.h;
+		path = /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h;
+		sourceTree = "<absolute>";
+	};
+	49E73DF8146BCDE900BF0610 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 49E73DF9146BCDE900BF0610 /* UIView.h */;
+		name = "UIView.h: 210";
+		rLen = 25;
+		rLoc = 9468;
+		rType = 0;
+		vrLen = 2058;
+		vrLoc = 6916;
+	};
+	49E73DF9146BCDE900BF0610 /* UIView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIView.h;
+		path = /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h;
+		sourceTree = "<absolute>";
+	};
+}

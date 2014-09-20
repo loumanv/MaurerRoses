@@ -1,0 +1,320 @@
+TMaurerRoses
+v7
+r0
+t343608288.258623
+cCheck dependencies
+cProcessInfoPlistFile /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/Info.plist MaurerRoses-Info.plist
+cCompileXIB /Users/bati/Documents/MaurerRoses/MainWindow.xib
+cCompileXIB /Users/bati/Documents/MaurerRoses/MaurerRosesViewController.xib
+cProcessPCH /var/folders/v8/35zrz9496q33y87mmdds254r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MaurerRoses_Prefix-diohesjsuihffighosckdfeidaup/MaurerRoses_Prefix.pch.gch MaurerRoses_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/main.o /Users/bati/Documents/MaurerRoses/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesAppDelegate.o /Users/bati/Documents/MaurerRoses/Classes/MaurerRosesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesViewController.o /Users/bati/Documents/MaurerRoses/Classes/MaurerRosesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesModel.o /Users/bati/Documents/MaurerRoses/Classes/MaurerRosesModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesViewDraw.o /Users/bati/Documents/MaurerRoses/Classes/MaurerRosesViewDraw.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/MaurerRoses normal i386
+cGenerateDSYMFile /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app.dSYM /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/MaurerRoses
+cTouch /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app
+
+N/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004EA42D5B0000000000000110
+t1319382363
+s272
+
+N/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/bati/Documents/MaurerRoses/Classes/MaurerRosesAppDelegate.h
+c000000004EBBF4B80000000000000206
+t1320940728
+s518
+i<UIKit/UIKit.h>
+
+N/Users/bati/Documents/MaurerRoses/Classes/MaurerRosesAppDelegate.m
+c000000004EBF078E00000000000004AA
+t1321142158
+s1194
+i"MaurerRosesAppDelegate.h"
+i"MaurerRosesViewController.h"
+
+N/Users/bati/Documents/MaurerRoses/Classes/MaurerRosesModel.h
+c000000004EBF0E88000000000000019A
+t1321143944
+s410
+i<Foundation/Foundation.h>
+
+N/Users/bati/Documents/MaurerRoses/Classes/MaurerRosesModel.m
+c000000004EC1223100000000000001B7
+t1321280049
+s439
+i"MaurerRosesModel.h"
+
+N/Users/bati/Documents/MaurerRoses/Classes/MaurerRosesViewController.h
+c000000004EBC2A17000000000000026B
+t1320954391
+s619
+i<UIKit/UIKit.h>
+i"MaurerRosesModel.h"
+i"MaurerRosesViewDraw.h"
+
+N/Users/bati/Documents/MaurerRoses/Classes/MaurerRosesViewController.m
+c000000004EC1221C00000000000005EC
+t1321280028
+s1516
+i"MaurerRosesViewController.h"
+
+N/Users/bati/Documents/MaurerRoses/Classes/MaurerRosesViewDraw.h
+c000000004EBF0E880000000000000166
+t1321143944
+s358
+i<UIKit/UIKit.h>
+i"MaurerRosesModel.h"
+
+N/Users/bati/Documents/MaurerRoses/Classes/MaurerRosesViewDraw.m
+c000000004EBC27960000000000000624
+t1320953750
+s1572
+i"MaurerRosesViewDraw.h"
+
+N/Users/bati/Documents/MaurerRoses/MainWindow.xib
+c000000004EB5A5780000000000004E59
+t1320527224
+s20057
+
+N/Users/bati/Documents/MaurerRoses/MaurerRosesViewController.xib
+c000000004EBC2ADB00000000000078C4
+t1320954587
+s30916
+
+N/Users/bati/Documents/MaurerRoses/MaurerRoses_Prefix.pch
+c000000004EB5A57800000000000000BF
+t1320527224
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app
+t1321904626
+s238
+
+N/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app.dSYM
+t1321904626
+s102
+
+N/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/Info.plist
+t1321904609
+s662
+
+N/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/MainWindow.nib
+t1321904621
+s1689
+
+N/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/MaurerRoses
+t1321904626
+s27672
+
+N/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/MaurerRosesViewController.nib
+t1321904621
+s3675
+
+N/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/PkgInfo
+t1321904609
+s8
+
+N/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRoses.LinkFileList
+c000000004ECAA9E100000000000002B3
+t1321904609
+s691
+
+N/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesAppDelegate.o
+t1321904625
+s51636
+
+N/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesModel.o
+t1321904625
+s11628
+
+N/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesViewController.o
+t1321904625
+s49548
+
+N/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesViewDraw.o
+t1321904625
+s43312
+
+N/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/main.o
+t1321904625
+s6360
+
+N/Users/bati/Documents/MaurerRoses/main.m
+c000000004EB5A5780000000000000177
+t1320527224
+s375
+i<UIKit/UIKit.h>
+
+N/var/folders/v8/35zrz9496q33y87mmdds254r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MaurerRoses_Prefix-diohesjsuihffighosckdfeidaup/MaurerRoses_Prefix.pch.gch
+t1321904625
+s15822256
+
+NMaurerRoses-Info.plist
+c000000004EBC2A1400000000000003D8
+t1320954388
+s984
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies343608288#343608288#0(0"0(0#1#0"17194247936#0"0#
+
+CCompileC build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesAppDelegate.o /Users/bati/Documents/MaurerRoses/Classes/MaurerRosesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343597425.317910
+e343597425.871582
+r1
+xCompileC
+xbuild/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesAppDelegate.o
+x/Users/bati/Documents/MaurerRoses/Classes/MaurerRosesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/bati/Documents/MaurerRoses/Classes/MaurerRosesAppDelegate.m343597425#343597425#0(0"0(0#0#66"/Users/bati/Documents/MaurerRoses/Classes/MaurerRosesAppDelegate.m4577558160#2039"    cd /Users/bati/Documents/MaurerRoses    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/developer3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-generated-files.hmap -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-own-target-headers.hmap -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-all-target-headers.hmap -iquote /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-project-headers.hmap -F/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator -I/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/include -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/DerivedSources/i386 -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/DerivedSources -include /var/folders/v8/35zrz9496q33y87mmdds254r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MaurerRoses_Prefix-diohesjsuihffighosckdfeidaup/MaurerRoses_Prefix.pch -c /Users/bati/Documents/MaurerRoses/Classes/MaurerRosesAppDelegate.m -o /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesAppDelegate.o0#
+
+CCompileC build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesModel.o /Users/bati/Documents/MaurerRoses/Classes/MaurerRosesModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343597425.320085
+e343597425.812603
+r1
+xCompileC
+xbuild/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesModel.o
+x/Users/bati/Documents/MaurerRoses/Classes/MaurerRosesModel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/bati/Documents/MaurerRoses/Classes/MaurerRosesModel.m343597425#343597425#0(0"0(0#0#60"/Users/bati/Documents/MaurerRoses/Classes/MaurerRosesModel.m4577558160#2027"    cd /Users/bati/Documents/MaurerRoses    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/developer3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-generated-files.hmap -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-own-target-headers.hmap -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-all-target-headers.hmap -iquote /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-project-headers.hmap -F/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator -I/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/include -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/DerivedSources/i386 -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/DerivedSources -include /var/folders/v8/35zrz9496q33y87mmdds254r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MaurerRoses_Prefix-diohesjsuihffighosckdfeidaup/MaurerRoses_Prefix.pch -c /Users/bati/Documents/MaurerRoses/Classes/MaurerRosesModel.m -o /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesModel.o0#
+
+CCompileC build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesViewController.o /Users/bati/Documents/MaurerRoses/Classes/MaurerRosesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343597425.319023
+e343597425.871821
+r1
+xCompileC
+xbuild/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesViewController.o
+x/Users/bati/Documents/MaurerRoses/Classes/MaurerRosesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/bati/Documents/MaurerRoses/Classes/MaurerRosesViewController.m343597425#343597425#0(0"0(0#0#69"/Users/bati/Documents/MaurerRoses/Classes/MaurerRosesViewController.m4577558160#2045"    cd /Users/bati/Documents/MaurerRoses    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/developer3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-generated-files.hmap -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-own-target-headers.hmap -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-all-target-headers.hmap -iquote /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-project-headers.hmap -F/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator -I/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/include -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/DerivedSources/i386 -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/DerivedSources -include /var/folders/v8/35zrz9496q33y87mmdds254r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MaurerRoses_Prefix-diohesjsuihffighosckdfeidaup/MaurerRoses_Prefix.pch -c /Users/bati/Documents/MaurerRoses/Classes/MaurerRosesViewController.m -o /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesViewController.o0#
+
+CCompileC build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesViewDraw.o /Users/bati/Documents/MaurerRoses/Classes/MaurerRosesViewDraw.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343597425.811047
+e343597425.958360
+r1
+xCompileC
+xbuild/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesViewDraw.o
+x/Users/bati/Documents/MaurerRoses/Classes/MaurerRosesViewDraw.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/bati/Documents/MaurerRoses/Classes/MaurerRosesViewDraw.m343597425#343597425#0(0"0(0#0#63"/Users/bati/Documents/MaurerRoses/Classes/MaurerRosesViewDraw.m4577558160#2033"    cd /Users/bati/Documents/MaurerRoses    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/developer3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-generated-files.hmap -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-own-target-headers.hmap -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-all-target-headers.hmap -iquote /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-project-headers.hmap -F/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator -I/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/include -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/DerivedSources/i386 -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/DerivedSources -include /var/folders/v8/35zrz9496q33y87mmdds254r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MaurerRoses_Prefix-diohesjsuihffighosckdfeidaup/MaurerRoses_Prefix.pch -c /Users/bati/Documents/MaurerRoses/Classes/MaurerRosesViewDraw.m -o /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRosesViewDraw.o0#
+
+CCompileC build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/main.o /Users/bati/Documents/MaurerRoses/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s343597425.316930
+e343597425.810909
+r1
+xCompileC
+xbuild/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/main.o
+x/Users/bati/Documents/MaurerRoses/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/bati/Documents/MaurerRoses/main.m343597425#343597425#0(0"0(0#0#40"/Users/bati/Documents/MaurerRoses/main.m4577558160#1995"    cd /Users/bati/Documents/MaurerRoses    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/developer3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-generated-files.hmap -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-own-target-headers.hmap -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-all-target-headers.hmap -iquote /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-project-headers.hmap -F/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator -I/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/include -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/DerivedSources/i386 -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/DerivedSources -include /var/folders/v8/35zrz9496q33y87mmdds254r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MaurerRoses_Prefix-diohesjsuihffighosckdfeidaup/MaurerRoses_Prefix.pch -c /Users/bati/Documents/MaurerRoses/main.m -o /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/bati/Documents/MaurerRoses/MainWindow.xib
+s343597409.540975
+e343597421.713949
+r1
+xCompileXIB
+x/Users/bati/Documents/MaurerRoses/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib343597409#343597421#0(0"0(0#0#48"/Users/bati/Documents/MaurerRoses/MainWindow.xib4577558160#619"    cd /Users/bati/Documents/MaurerRoses    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/developer3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/developer3.2.6/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/MainWindow.nib /Users/bati/Documents/MaurerRoses/MainWindow.xib --sdk /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/bati/Documents/MaurerRoses/MaurerRosesViewController.xib
+s343597409.627243
+e343597422.137197
+r1
+xCompileXIB
+x/Users/bati/Documents/MaurerRoses/MaurerRosesViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@40"CompileXIB MaurerRosesViewController.xib343597409#343597422#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#63"/Users/bati/Documents/MaurerRoses/MaurerRosesViewController.xib4577558160#649"    cd /Users/bati/Documents/MaurerRoses    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/developer3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/developer3.2.6/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/MaurerRosesViewController.nib /Users/bati/Documents/MaurerRoses/MaurerRosesViewController.xib --sdk /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app.dSYM /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/MaurerRoses
+s343597426.630108
+e343597426.767753
+r1
+xGenerateDSYMFile
+x/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app.dSYM
+x/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/MaurerRoses
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/MaurerRoses.app.dSYM build/Debug-iphonesimulator/MaurerRoses.app/MaurerRoses343597426#343597426#0(0"0(0#0#89"/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/MaurerRoses4577558160#425"    cd /Users/bati/Documents/MaurerRoses    setenv PATH "/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/developer3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/developer3.2.6/usr/bin/dsymutil /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/MaurerRoses -o /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app.dSYM0#
+
+CLd /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/MaurerRoses normal i386
+s343597425.961040
+e343597426.630009
+r1
+xLd
+x/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/MaurerRoses
+xnormal
+xi386
+lSLF07#2@94"Link /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/MaurerRoses343597425#343597426#0(0"0(0#0#0"4577558160#955"    cd /Users/bati/Documents/MaurerRoses    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/developer3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator -F/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator -filelist /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/Objects-normal/i386/MaurerRoses.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/MaurerRoses0#
+
+CProcessInfoPlistFile /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/Info.plist MaurerRoses-Info.plist
+s343597409.177155
+e343597409.540683
+r1
+xProcessInfoPlistFile
+x/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/Info.plist
+xMaurerRoses-Info.plist
+lSLF07#2@30"Process MaurerRoses-Info.plist343597409#343597409#0(0"0(0#0#56"/Users/bati/Documents/MaurerRoses/MaurerRoses-Info.plist17235085824#506"    cd /Users/bati/Documents/MaurerRoses    setenv PATH "/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/developer3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MaurerRoses-Info.plist -genpkginfo /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app/Info.plist0#
+
+CProcessPCH /var/folders/v8/35zrz9496q33y87mmdds254r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MaurerRoses_Prefix-diohesjsuihffighosckdfeidaup/MaurerRoses_Prefix.pch.gch MaurerRoses_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s343597422.197659
+e343597425.316793
+r1
+xProcessPCH
+x/var/folders/v8/35zrz9496q33y87mmdds254r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MaurerRoses_Prefix-diohesjsuihffighosckdfeidaup/MaurerRoses_Prefix.pch.gch
+xMaurerRoses_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile MaurerRoses_Prefix.pch343597422#343597425#0(0"0(0#0#56"/Users/bati/Documents/MaurerRoses/MaurerRoses_Prefix.pch4577558160#1888"    cd /Users/bati/Documents/MaurerRoses    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/developer3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-generated-files.hmap -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-own-target-headers.hmap -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-all-target-headers.hmap -iquote /Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/MaurerRoses-project-headers.hmap -F/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator -I/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/include -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/DerivedSources/i386 -I/Users/bati/Documents/MaurerRoses/build/MaurerRoses.build/Debug-iphonesimulator/MaurerRoses.build/DerivedSources -c /Users/bati/Documents/MaurerRoses/MaurerRoses_Prefix.pch -o /var/folders/v8/35zrz9496q33y87mmdds254r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MaurerRoses_Prefix-diohesjsuihffighosckdfeidaup/MaurerRoses_Prefix.pch.gch0#
+
+CTouch /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app
+s343597426.767839
+e343597426.801193
+r1
+xTouch
+x/Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app
+lSLF07#2@83"Touch /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app343597426#343597426#0(0"0(0#0#0"4577558160#302"    cd /Users/bati/Documents/MaurerRoses    setenv PATH "/Developer/developer3.2.6/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/developer3.2.6/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/bati/Documents/MaurerRoses/build/Debug-iphonesimulator/MaurerRoses.app0#
+
